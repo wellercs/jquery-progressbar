@@ -1,0 +1,15 @@
+.animated-progress-bar {
+	border-radius: 4px;
+	background: #FFF;
+	border: 1px solid #AAA;
+	overflow: hidden;
+}
+.animated-progress-bar div {
+	background-color: #b9d4c9;
+	border-right: 1px solid #AAA;
+}
+#progressBar {
+	width: 400px;
+	height: 16px;
+	text-align: right;
+}
